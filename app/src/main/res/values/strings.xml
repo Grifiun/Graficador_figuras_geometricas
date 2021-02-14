@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Graficador_figuras_geometricas</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="app_name">Graficador de figuras geometricas</string>
+    <string name="tab_text_1">Entrada</string>
+    <string name="tab_text_2">Visualizador</string>
 </resources>
